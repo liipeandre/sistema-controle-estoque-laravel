@@ -1,17 +1,17 @@
-# Sistema de Controle de Estoque
+# Inventory Control System
 
-Um sistema bem simples de controle de estoque, desenvolvido por mim, usando as tecnologias: HTML5, CSS3 com Bootstrap e PHP, usando a framework Laravel, para o backend. Suas funcionalidades incluem:
-
-- Sistema de autenticação.
-- CRUD completo de produtos (insert, delete, list, view e edit).
-
-# Autor
+# Author
 
 - André Felipe Pereira dos Santos
 
-# Descrição
+# Description
 
-# Este repositório possui:
+A very simple inventory control system, using technologies: HTML5, CSS3 with Bootstrap and PHP, using Laravel framework, for the backend. Its features include:
 
-- O código-fonte desenvolvido para o backend e frontend.
-- O arquivo .mwb, contendo o modelo físico do banco de dados.
+- Authentication system.
+- Complete CRUD of products (insert, delete, list, view and edit).
+
+This repository has:
+
+- Source code developed for the backend and frontend.
+- The .mwb file, containing the physical model of the database.
